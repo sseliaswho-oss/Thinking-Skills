@@ -8,7 +8,6 @@ Bella's Thinking Studio helps children learn to examine clues, follow rules, ass
 
 ## Start learning
 
-- **Online version:** https://bella-thinking-studio-foundations.blue-aspen-2559.chatgpt.site/
 - **Offline version:** Open `Bella_Thinking_Studio.html` in a modern browser, if you have received that file. Core lessons do not require a network connection. Text-to-speech availability depends on your browser and device.
 
 The online version may require sign-in through its hosting platform. The learning interface does not provide its own account or cloud progress-sync service.
