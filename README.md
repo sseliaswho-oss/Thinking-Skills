@@ -110,3 +110,31 @@ The learning programme is intended for children using it with a parent, guardian
 Features and content may change in later releases. Save a progress backup before moving to a new version or hosting location.
 
 **Maintainer contact:** [sseliaswho@gmail.com](mailto:sseliaswho@gmail.com)
+
+Bella's Thinking Studio — Stages 1–4 with Test History (v4.1)
+
+To install: replace the file named index.html at the root of your
+Thinking-Skills GitHub repository with the index.html in this package.
+Keep the repository's GitHub Pages deployment source set to main / (root).
+
+Where to see answers:
+1. Open Independent checks.
+2. Finish the 40-question Selective-style check.
+3. On the results page, review 'All answers at a glance'.
+4. Select a question to see your choice, the correct answer, and explanation.
+5. Select 'Show all explanations' to expand the whole set.
+
+Where to see past attempts:
+1. Open Independent checks -> Test history.
+2. Select 'View answers & explanations' beside any saved check.
+
+This version automatically saves new attempts in the browser, including
+answers during an unfinished check and a completed history of up to 60 tests.
+Export a backup under Settings & backups before switching browser, device,
+or website origin. Backups now include Test history.
+
+Notes:
+- The website must be updated before these features appear online.
+- Results finished using older versions (before Test history existed) cannot
+  be reconstructed if the results page has already been closed.
+- This is an original educational practice app, not an official NSW exam.
